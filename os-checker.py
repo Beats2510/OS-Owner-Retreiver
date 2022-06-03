@@ -28,7 +28,7 @@ def showHeader():
             ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║          
              ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
-                {Fore.WHITE}Created by: {Fore.LIGHTRED_EX}GBE#0001{Fore.WHITE} for DOS PUNKS Community
+                {Fore.WHITE}Created by: {Fore.LIGHTRED_EX}Beats2510{Fore.WHITE}
     ''')
     
 # Init with flags
